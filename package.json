@@ -1,0 +1,23 @@
+{
+  "name": "pres",
+  "version": "1.0.0",
+  "description": "![Daniel Olmedo](./Media/IMG_20201109_125539287.jpg \"Here i'am\")",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanOlmed/presentacion.git"
+  },
+  "author": "daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanOlmed/presentacion/issues"
+  },
+  "homepage": "https://github.com/DanOlmed/presentacion#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
